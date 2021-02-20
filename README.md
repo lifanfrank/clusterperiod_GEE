@@ -1,5 +1,5 @@
 # clusterperiod_GEE
-The current folder contains files for implementing the cluster-period GEE approach introduced in  "Marginal Modeling of Cluster-Period Means and Intraclass Correlations in Stepped Wedge Designs with Binary Outcomes" by F. Li et al.
+The current folder contains files for implementing the cluster-period GEE approach introduced in  "Marginal Modeling of Cluster-Period Means and Intraclass Correlations in Stepped Wedge Designs with Binary Outcomes" by F. Li et al. (Biostatistics, 2021)
 
 The binary responses are generated from a marginal mean model with specified correlation structures to mimic a cross sectional stepped wedge 
 cluster randomized trial. The treatment is assiged at the cluster level. 
